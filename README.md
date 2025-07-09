@@ -1,37 +1,6 @@
-Welcome to Glitch
-=================
+# Another World mini-ARG Archive
+In my Project Arrhythmia custom level In The Tiger's Den, I left behind a few hidden links to different sites you could dig through a bit more to find hidden lore details. One of them was hosted on Glitch, which unfortunately shut down.
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This repository is an attempmt to preserve the original version of the site with Github Pages. A hint: use inspect element to find more stuff.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+If you just want to read the stuff I wrote for this, I have all of the text [uploaded to Toyhouse.](https://toyhou.se/~literature/232252.logs-from-another-world)
